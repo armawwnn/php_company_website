@@ -1,0 +1,91 @@
+.menu{
+    width: 100%;
+    height: 50px;
+    background-color: #343231 !important;
+}
+@font-face {
+    font-family: "IRANsans";
+    src: url("../../../fonts/IRAN.eot");
+    src: url("../../../fonts/IRAN.ttf");
+    src: url("../../../fonts/IRAN.woff");
+    src: url("../../../fonts/IRAN.woff2");
+}
+body{
+    font-family: "IRANsans";
+}
+.font_menu{
+    font-size: 14px;
+    padding-top: 5px;
+}
+.parallax{
+    width: 100%;
+    height: 650px;
+    background-color: lightgray;
+    padding-top: 50px;
+    box-sizing: border-box;
+}
+.pt-6{
+    padding-top: 100px;
+}
+.rtlpersian{
+direction: rtl !important;
+}
+.line_height{
+    line-height: 30px;
+}
+.portfolio{
+    width: 100%;
+    padding: 50px;
+    box-sizing: border-box;
+}
+.border_web{
+border: 3px inset lightgray;
+}
+.products{
+    width: 100%;
+    padding: 50px;
+    box-sizing: border-box;
+}
+.image_product{
+    height: 200px;
+}
+.contact{
+    width: 100%;
+    padding-top: 50px;
+    box-sizing: border-box;
+}
+.border_form{
+    border: 2px inset lightgray;
+}
+.comment{
+    height: 200px !important;
+    resize: none;
+}
+.footer{
+    width: 100% !important;
+    padding: 50px;
+    box-sizing: border-box;
+    background-color: #343231;
+}
+.search{
+    height: 40px !important;
+    background-color: transparent;
+    border: 3px inset lightgray;
+}
+/*.facebook{*/
+/*    color: #c4dbe3;*/
+/*    font-size: 500px !important;*/
+/*}*/
+/*.fa-facebook{*/
+/*    transition: all 0.3s ease !important;*/
+/*}*/
+/*.fa-instagram{*/
+/*    transition: all 0.3s ease !important;*/
+/*}*/
+/*.search::placeholder{*/
+/*    padding-right: 20px !important;*/
+/*}*/
+/*.search:focus{*/
+/*    background-color: lightgray;*/
+/*    border-color: #0b2e13;*/
+/*}*/
